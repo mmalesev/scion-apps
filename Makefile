@@ -20,6 +20,7 @@ build: scion-bat \
 	scion-netcat \
 	scion-sensorfetcher scion-sensorserver \
 	scion-ssh scion-sshd \
+	scion-webapp \
 	example-helloworld \
 	example-hellodrkey \
 	example-shttp-client example-shttp-server example-shttp-fileserver example-shttp-proxy
